@@ -37,6 +37,6 @@
 <br>
 ## Social media
 
-<a href="www.linkedin.com/in/sebastián-bustos-peña-9633b83a7">
+<a href="https://www.linkedin.com/in/sebastián-bustos-peña-9633b83a7">
   <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
