@@ -40,22 +40,14 @@
 <a href="https://www.linkedin.com/in/sebastián-bustos-peña-9633b83a7">
   <img src="https://skillicons.dev/icons?i=linkedin">
 </a>
+</a>
 
 <br/>
 
----
+  <h2 align="left"> Github Statistics</h2>
 
-<br/>
-
-  <h2 align="center"> Github Statistics 📈 </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SebastianBustosDev&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianBustosDev&theme=react&line_height=40&hide=css"/>
-    </a>
-</div
+<p align="left">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SebastianBustosDev&theme=dark&hide_border=true"/>
+</p>
 
 <br/>
