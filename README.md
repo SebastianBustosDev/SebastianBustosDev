@@ -37,7 +37,7 @@ I am a Systems Engineering student about to graduate with a practical focus on p
 </a>
 </a>
 
-<br/>
+<br>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = "50px"  align="center"></picture> Github Stats
 
