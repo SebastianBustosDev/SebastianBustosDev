@@ -6,6 +6,9 @@
 
 <br><br>
 
+I am a Systems Engineering student about to graduate with a practical focus on problem solving. My motivation is to use technology to make a real impact, applying good development practices and always willing to learn something new. I have experience in back-end development, but I can also handle front-end development. I am currently learning Java and am ready to contribute my energy and dedication to an innovative team.
+
+Translated with DeepL.com (free version)
 - :school: I am a `Junior` at [Systems engineer](http://suez.edu.eg/ar/%d9%83%d9%84%d9%8a%d8%a9-%d8%a7%d9%84%d8%ad%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa-%d9%88%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa/) at [Suez Canal University](http://suez.edu.eg/ar/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
