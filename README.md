@@ -6,7 +6,7 @@
 
 <br>
 
-I am a Systems Engineering student about to graduate with a practical focus on problem solving. My motivation is to use technology to make a real impact, applying good development practices and always willing to learn something new. I have experience in back-end development, but I can also handle front-end development. I am currently learning Java and am ready to contribute my energy and dedication to an innovative team.
+I am a Systems Engineering student about to graduate with a practical focus on problem solving. My motivation is to use technology to make a real impact, applying good development practices and always willing to learn something new. I have experience in back-end development, but I can also handle front-end development.
 
 - 📫 Contact with me **sebastianbustos2003@gmail.com**
 <br>
